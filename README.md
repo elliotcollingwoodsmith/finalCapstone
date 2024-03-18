@@ -1,5 +1,3 @@
-# finalCapstone
-
 # Sentiment Analysis Project
 
 ## Description
